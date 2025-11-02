@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+pydantic
+pymysql
+python-dotenv pip install python-dotenv
